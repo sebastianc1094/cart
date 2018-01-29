@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nombre": "Leanne Graham",
+    "password":"123456",
+    "username": "Bret",
+    "email": "Sincere@april.biz",
+    "telefono": "1-770-736-8031 x56442",
+    "direccion": {
+      "calle": "Kulas Light",
+      "casa": "Apt. 556",
+      "ciudad": "Gwenborough",
+    },
+    "empresa": {
+      "nombre": "Romaguera-Crona",
+    }
+  },
+]
